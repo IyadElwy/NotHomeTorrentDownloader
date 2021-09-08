@@ -1,5 +1,5 @@
 # NotHomeTorrentDownloader
-### An application that enables you to choose the torrents you wish to download when you're not at home. You specify the torrent and the website from which you want to download from and if the pc should turn off after the download has finished.
+### An application that enables you to choose the torrents you wish to download when you're not at home or any windows cmd and have it execute remotely and all you need is a Gmail account. You specify the torrent and the website from which you want to download from and if the pc should turn off after the download has finished. Using google API's you can control your pc from anywhere on the planet.
 
 ## Application Commands include:
 - "download torrent yts"
