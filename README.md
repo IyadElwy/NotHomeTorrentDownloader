@@ -1,4 +1,4 @@
-# NotHomeTorrentDownloader
+# NotHomeTorrentDownloader 
 ### An application that enables you to choose the torrents you want and remotely toggle their download on your pc. Also supports remote command line control of your pc and all you need is a Gmail account. You specify the torrent and the website from which you want to download from and if the pc should turn off after the download has finished. Using google API's you can control your pc from anywhere on the planet.
 
 ## Application Commands include:
@@ -17,3 +17,4 @@
 
 Requirements.txt included   
 Currently working on adding more websites.
+This should not be used to download illegal torrents.
